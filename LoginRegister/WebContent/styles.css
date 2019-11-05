@@ -1,0 +1,28 @@
+p {
+	color:white;
+	font-family:verdana;
+	text-align:center;
+	padding-bottom: 25px;
+	}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family:verdana;
+	text-align:center;
+	color:white;
+	padding-bottom: 50px;
+}
+
+#button {
+	margin-top:15px;
+	margin-left:9px;
+	
+}
+td {
+	color:white;
+	font-family:verdana;
+	padding-bottom:15px;
+}
